@@ -1,4 +1,4 @@
-# 📊 TP Big Data — Analyse de Popularité avec Tri
+# 📊 TD Big Data — Analyse de Popularité avec Tri
 
 Ce TP consiste à manipuler un jeu de données issu de Wikipédia francophone, et à analyser les performances de différents algorithmes de tri (tri à bulle, tri fusion) sur des fichiers de tailles croissantes.
 
@@ -21,4 +21,19 @@ Décompressez l’archive pour obtenir le fichier `wikirank-fr-v2.tsv`.
 ## 📁 Organisation
 
 Les fichiers générés doivent être placés dans un dossier `datasets/`, et nommés selon le format :
+wikirank_subset_<taille>.tsv
+
+
+Exemples : `wikirank_subset_100.tsv`, `wikirank_subset_10000.tsv`, etc.
+
+## 📦 Dépendances
+
+- Python ≥ 3.8
+- `matplotlib`
+- `pandas` (pour la génération des sous-ensembles)
+
+---
+
+Bon TD ! 💻📈
+
 
