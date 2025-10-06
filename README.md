@@ -1,4 +1,4 @@
-## 📊 TD Big Data — Analyse de Popularité avec Tri
+## TD Big Data — Analyse de Popularité avec Tri
 
 Ce TP consiste à manipuler un jeu de données issu de Wikipédia francophone, et à analyser les performances de différents algorithmes de tri (tri à bulle, tri fusion) sur des fichiers de tailles croissantes.
 
