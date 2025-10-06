@@ -40,6 +40,5 @@ Exemples : `wikirank_subset_100.tsv`, `wikirank_subset_10000.tsv`, etc.
 
 ---
 
-Bon TD ! 💻📈
 
 
